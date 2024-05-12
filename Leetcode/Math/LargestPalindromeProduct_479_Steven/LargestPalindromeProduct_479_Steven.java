@@ -11,7 +11,9 @@ public class LargestPalindromeProduct_479_Steven {
 
     long size = upper + 1;
 
+    // the number of digits is 2 here 99
     while (size-- >= limit) {
+      // start should be 99;
       long start = size;
       String head = String.valueOf(start);
 
@@ -26,6 +28,8 @@ public class LargestPalindromeProduct_479_Steven {
       sb.append(tail);
 
       Long candidate = Long.valueOf(sb.toString());
+      // the number of digits is 2
+      // 99 * 99 => From 9999 to 11
 
       for (long i = upper; i * i >= candidate; i--) {
         if (candidate / i > upper) {
