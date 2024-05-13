@@ -12,6 +12,8 @@ To maintain consistency and ease of navigation, this repository adheres to a spe
 
 platform (e.g., leetcode, codejam)/category (e.g., bfs, sliding_window)/problem_name+problem_number (optional)/problem_name+problem_number+your_name (e.g., summing_two_1359_Steven)/your_solution.extension (e.g., .java, .c, .py)
 
+ex)  /leetcode/bfs/summing_two_1359_Steven/suming_two_1359_Steven.java, /leetcode/SlidingWindow/Summing_two_1359_Steven/Suming_two_1359_Steven.java
+
 By organizing solutions in this manner, we ensure that the repository remains organized and that solutions can easily be found based on the problem's platform, category, and name.
 
 ### Providing Feedback
