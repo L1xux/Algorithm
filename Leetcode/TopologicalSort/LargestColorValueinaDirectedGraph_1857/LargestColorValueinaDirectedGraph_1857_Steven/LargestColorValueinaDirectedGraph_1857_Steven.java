@@ -1,4 +1,4 @@
-package TopologicalSort.LargestColorValueinaDirectedGraph_1857_Steven;
+package TopologicalSort.LargestColorValueinaDirectedGraph_1857.LargestColorValueinaDirectedGraph_1857_Steven;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -30,9 +30,9 @@ public class LargestColorValueinaDirectedGraph_1857_Steven {
       degrees[i] = new Degree(i, 0);
     }
 
-    int size = edges.length;
+    int totalDegree = edges.length;
 
-    for (int i = 0; i < size; i++) {
+    for (int i = 0; i < totalDegree; i++) {
       int now = edges[i][0];
       int next = edges[i][1];
 
@@ -51,7 +51,6 @@ public class LargestColorValueinaDirectedGraph_1857_Steven {
       }
     });
 
-    boolean[] visited = new boolean[N];
     int[][] count = new int[N][26];
 
     for (int i = 0; i < N; i++) {
@@ -66,7 +65,6 @@ public class LargestColorValueinaDirectedGraph_1857_Steven {
       Degree degree = pq.poll();
 
       int now = degree.now;
-      visited[now] = true;
 
       count[now][colorsList[now] - 'a']++;
       int nowCnt = count[now][colorsList[now] - 'a'];
@@ -74,22 +72,20 @@ public class LargestColorValueinaDirectedGraph_1857_Steven {
       res = Math.max(res, nowCnt);
 
       for (int next : graph[now]) {
-        if (visited[next]) {
-          return -1;
-        }
-
         for (int i = 0; i < 26; i++) {
           count[next][i] = Math.max(count[now][i], count[next][i]);
         }
 
         degrees[next].degree--;
+        totalDegree--;
+
         if (degrees[next].degree == 0) {
           pq.add(degrees[next]);
         }
       }
     }
 
-    return res;
+    return totalDegree > 0 ? -1 : res;
   }
 
   public static void main(String[] args) {
