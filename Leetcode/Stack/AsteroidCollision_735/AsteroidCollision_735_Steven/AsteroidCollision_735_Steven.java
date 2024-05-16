@@ -1,4 +1,4 @@
-package Stack.AsteroidCollision_735_Steven;
+package Stack.AsteroidCollision_735.AsteroidCollision_735_Steven;
 
 import java.util.Stack;
 

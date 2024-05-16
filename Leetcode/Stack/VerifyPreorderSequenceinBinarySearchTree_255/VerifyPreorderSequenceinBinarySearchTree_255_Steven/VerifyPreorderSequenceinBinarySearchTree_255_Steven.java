@@ -1,4 +1,4 @@
-package Stack.VerifyPreorderSequenceinBinarySearchTree_255_Steven;
+package Stack.VerifyPreorderSequenceinBinarySearchTree_255.VerifyPreorderSequenceinBinarySearchTree_255_Steven;
 
 public class VerifyPreorderSequenceinBinarySearchTree_255_Steven {
   public static boolean verifyPreorder(int[] po) {

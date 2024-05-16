@@ -1,4 +1,4 @@
-package LinkedList.ReverseLinkedListII_92_Steven;
+package LinkedList.ReverseLinkedListII_92.ReverseLinkedListII_92_Steven;
 
 class ListNode {
   int val;

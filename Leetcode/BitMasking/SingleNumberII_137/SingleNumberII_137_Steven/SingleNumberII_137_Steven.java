@@ -1,4 +1,4 @@
-package BitMasking.SingleNumberII_137_Steven;
+package BitMasking.SingleNumberII_137.SingleNumberII_137_Steven;
 
 public class SingleNumberII_137_Steven {
 

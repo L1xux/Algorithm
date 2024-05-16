@@ -1,4 +1,4 @@
-package Stack.FindingtheNumberofVisibleMountains_2345_Steven;
+package Stack.FindingtheNumberofVisibleMountains_2345.FindingtheNumberofVisibleMountains_2345_Steven;
 
 import java.util.Arrays;
 import java.util.Comparator;

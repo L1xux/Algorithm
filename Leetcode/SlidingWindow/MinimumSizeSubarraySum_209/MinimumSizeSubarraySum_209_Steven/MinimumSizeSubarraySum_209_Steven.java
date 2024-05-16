@@ -1,5 +1,5 @@
 
-package SlidingWindow.MinimumSizeSubarraySum_209_Steven;
+package SlidingWindow.MinimumSizeSubarraySum_209.MinimumSizeSubarraySum_209_Steven;
 
 class MinimumSizeSubarraySum_209_Steven {
   public static int minSubArrayLen(int target, int[] nums) {
@@ -15,12 +15,12 @@ class MinimumSizeSubarraySum_209_Steven {
       if (sum < target) {
         right++;
 
-        if(right >= size){
+        if (right >= size) {
           break;
         }
 
         sum += nums[right];
-        
+
       } else {
         sum -= nums[left];
         left++;

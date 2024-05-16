@@ -1,4 +1,4 @@
-package TwoPointer.MaxNumberofKSumPairs_1679_Steven;
+package TwoPointer.MaxNumberofKSumPairs_1679.MaxNumberofKSumPairs_1679_Steven;
 
 import java.util.Arrays;
 

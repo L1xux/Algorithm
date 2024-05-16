@@ -1,4 +1,4 @@
-package Math.LargestPalindromeProduct_479_Steven;
+package Math.LargestPalindromeProduct_479.LargestPalindromeProduct_479_Steven;
 
 public class LargestPalindromeProduct_479_Steven {
   public static int largestPalindrome(int n) {

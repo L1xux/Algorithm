@@ -1,4 +1,4 @@
-package TwoPointer.MaximumPrimeDifference_3115_Steven;
+package TwoPointer.MaximumPrimeDifference_3115.MaximumPrimeDifference_3115_Steven;
 
 public class MaximumPrimeDifference_3115_Steven {
   public static int maximumPrimeDifference(int[] nums) {

@@ -1,4 +1,4 @@
-package BinarySearch.FindLongestSpecialSubstringThatOccursThriceII_2982_Steven;
+package BinarySearch.FindLongestSpecialSubstringThatOccursThriceII_2982.FindLongestSpecialSubstringThatOccursThriceII_2982_Steven;
 
 public class FindLongestSpecialSubstringThatOccursThriceII_2982_Steven {
 

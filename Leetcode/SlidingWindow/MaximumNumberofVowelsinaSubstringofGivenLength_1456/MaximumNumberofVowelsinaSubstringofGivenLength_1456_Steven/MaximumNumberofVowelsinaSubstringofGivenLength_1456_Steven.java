@@ -1,4 +1,4 @@
-package SlidingWindow.MaximumNumberofVowelsinaSubstringofGivenLength_1456_Steven;
+package SlidingWindow.MaximumNumberofVowelsinaSubstringofGivenLength_1456.MaximumNumberofVowelsinaSubstringofGivenLength_1456_Steven;
 
 import java.util.HashMap;
 import java.util.Map;

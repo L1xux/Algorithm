@@ -1,4 +1,4 @@
-package BFS.ValidateBinaryTreeNodes_1361_Steven;
+package BFS.ValidateBinaryTreeNodes_1361.ValidateBinaryTreeNodes_1361_Steven;
 
 import java.util.*;
 

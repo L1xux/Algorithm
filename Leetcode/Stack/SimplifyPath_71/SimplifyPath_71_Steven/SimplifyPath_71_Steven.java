@@ -1,4 +1,4 @@
-package Stack.SimplifyPath_71_Steven;
+package Stack.SimplifyPath_71.SimplifyPath_71_Steven;
 
 import java.util.Stack;
 

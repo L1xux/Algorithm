@@ -1,4 +1,4 @@
-package LinkedList.OddEvenLinkedList_328_Steven;
+package LinkedList.OddEvenLinkedList_328.OddEvenLinkedList_328_Steven;
 
 class ListNode {
   int val;

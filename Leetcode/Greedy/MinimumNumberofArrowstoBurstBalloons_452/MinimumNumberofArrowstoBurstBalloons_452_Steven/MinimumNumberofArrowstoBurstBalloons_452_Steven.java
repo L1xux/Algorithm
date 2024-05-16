@@ -1,4 +1,4 @@
-package Greedy.MinimumNumberofArrowstoBurstBalloons_452_Steven;
+package Greedy.MinimumNumberofArrowstoBurstBalloons_452.MinimumNumberofArrowstoBurstBalloons_452_Steven;
 
 import java.util.Arrays;
 

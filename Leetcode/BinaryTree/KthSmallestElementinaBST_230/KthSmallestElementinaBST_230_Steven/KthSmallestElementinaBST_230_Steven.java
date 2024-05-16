@@ -1,4 +1,4 @@
-package BinaryTree.KthSmallestElementinaBST_230_Steven;
+package BinaryTree.KthSmallestElementinaBST_230.KthSmallestElementinaBST_230_Steven;
 
 class TreeNode {
   int val;

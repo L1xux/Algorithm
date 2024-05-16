@@ -1,4 +1,4 @@
-package Stack.DecodeString_394_Steven;
+package Stack.DecodeString_394.DecodeString_394_Steven;
 
 import java.util.Stack;
 

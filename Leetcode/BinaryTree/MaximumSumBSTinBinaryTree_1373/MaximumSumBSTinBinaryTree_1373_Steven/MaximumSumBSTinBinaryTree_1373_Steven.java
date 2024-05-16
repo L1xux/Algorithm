@@ -1,4 +1,4 @@
-package BinaryTree.MaximumSumBSTinBinaryTree_1373_Steven;
+package BinaryTree.MaximumSumBSTinBinaryTree_1373.MaximumSumBSTinBinaryTree_1373_Steven;
 
 class TreeNode {
   int val;

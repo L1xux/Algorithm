@@ -1,4 +1,4 @@
-package BFS.SnakesandLadders_909_Steven;
+package BFS.SnakesandLadders_909.SnakesandLadders_909_Steven;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Math.LatestTimeYouCanObtainAfterReplacingCharacters_3114_Steven;
+package Math.LatestTimeYouCanObtainAfterReplacingCharacters_3114.LatestTimeYouCanObtainAfterReplacingCharacters_3114_Steven;
 
 public class LatestTimeYouCanObtainAfterReplacingCharacters_3114_Steven {
   public static String findLatestTime(String s) {

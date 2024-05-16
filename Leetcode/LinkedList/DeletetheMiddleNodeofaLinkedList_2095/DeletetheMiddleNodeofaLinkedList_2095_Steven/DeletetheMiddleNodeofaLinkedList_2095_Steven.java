@@ -1,4 +1,4 @@
-package LinkedList.DeletetheMiddleNodeofaLinkedList_2095_Steven;
+package LinkedList.DeletetheMiddleNodeofaLinkedList_2095.DeletetheMiddleNodeofaLinkedList_2095_Steven;
 
 class ListNode {
   int val;

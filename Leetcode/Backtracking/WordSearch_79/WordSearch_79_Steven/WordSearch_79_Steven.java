@@ -1,4 +1,4 @@
-package Backtracking.WordSearch_79_Steven;
+package Backtracking.WordSearch_79.WordSearch_79_Steven;
 
 class WordSearch_79_Steven {
   private static int[] NR = new int[] { -1, 1, 0, 0 };

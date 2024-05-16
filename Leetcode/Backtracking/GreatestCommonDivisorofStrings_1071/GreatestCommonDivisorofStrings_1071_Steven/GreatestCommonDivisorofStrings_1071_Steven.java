@@ -1,4 +1,4 @@
-package Backtracking.GreatestCommonDivisorofStrings_1071_Steven;
+package Backtracking.GreatestCommonDivisorofStrings_1071.GreatestCommonDivisorofStrings_1071_Steven;
 
 public class GreatestCommonDivisorofStrings_1071_Steven {
   public static String gcdOfStrings(String str1, String str2) {

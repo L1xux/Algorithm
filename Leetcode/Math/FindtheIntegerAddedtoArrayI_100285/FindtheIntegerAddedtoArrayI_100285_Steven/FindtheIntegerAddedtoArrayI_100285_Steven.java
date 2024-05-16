@@ -1,4 +1,4 @@
-package Math.FindtheIntegerAddedtoArrayI_100285_Steven;
+package Math.FindtheIntegerAddedtoArrayI_100285.FindtheIntegerAddedtoArrayI_100285_Steven;
 
 public class FindtheIntegerAddedtoArrayI_100285_Steven {
   public static int addedInteger(int[] nums1, int[] nums2) {

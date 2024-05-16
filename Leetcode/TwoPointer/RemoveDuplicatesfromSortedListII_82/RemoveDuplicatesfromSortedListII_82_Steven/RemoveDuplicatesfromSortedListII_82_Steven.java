@@ -1,4 +1,4 @@
-package TwoPointer.RemoveDuplicatesfromSortedListII_82_Steven;
+package TwoPointer.RemoveDuplicatesfromSortedListII_82.RemoveDuplicatesfromSortedListII_82_Steven;
 
 class ListNode {
   int val;

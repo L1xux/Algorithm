@@ -1,4 +1,4 @@
-package Greedy.KidsWiththeGreatestNumberofCandies_1431_Steven;
+package Greedy.KidsWiththeGreatestNumberofCandies_1431.KidsWiththeGreatestNumberofCandies_1431_Steven;
 
 import java.util.ArrayList;
 import java.util.List;

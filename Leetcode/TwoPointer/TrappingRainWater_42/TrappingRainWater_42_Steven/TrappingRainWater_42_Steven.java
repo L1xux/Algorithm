@@ -1,4 +1,4 @@
-package TwoPointer.TrappingRainWater_42_Steven;
+package TwoPointer.TrappingRainWater_42.TrappingRainWater_42_Steven;
 
 public class TrappingRainWater_42_Steven {
   public static int trap(int[] height) {

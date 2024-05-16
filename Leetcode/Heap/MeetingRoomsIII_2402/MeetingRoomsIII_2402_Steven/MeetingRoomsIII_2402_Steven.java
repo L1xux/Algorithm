@@ -1,4 +1,4 @@
-package Heap.MeetingRoomsIII_2402_Steven;
+package Heap.MeetingRoomsIII_2402.MeetingRoomsIII_2402_Steven;
 
 import java.util.Arrays;
 import java.util.Comparator;

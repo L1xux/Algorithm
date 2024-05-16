@@ -1,4 +1,4 @@
-package Greedy.Candy_135_Steven;
+package Greedy.Candy_135.Candy_135_Steven;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Greedy.MinimumNumberofGroupstoCreateaValidAssignment_2910_Steven;
+package Greedy.MinimumNumberofGroupstoCreateaValidAssignment_2910.MinimumNumberofGroupstoCreateaValidAssignment_2910_Steven;
 
 import java.util.*;
 

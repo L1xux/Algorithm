@@ -1,4 +1,4 @@
-package Stack.ReverseVowelsofaString_345_Steven;
+package Stack.ReverseVowelsofaString_345.ReverseVowelsofaString_345_Steven;
 
 import java.util.Stack;
 

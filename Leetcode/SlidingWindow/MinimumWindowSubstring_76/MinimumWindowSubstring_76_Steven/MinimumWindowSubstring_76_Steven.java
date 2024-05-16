@@ -1,4 +1,4 @@
-package SlidingWindow.MinimumWindowSubstring_76_Steven;
+package SlidingWindow.MinimumWindowSubstring_76.MinimumWindowSubstring_76_Steven;
 
 import java.util.HashMap;
 

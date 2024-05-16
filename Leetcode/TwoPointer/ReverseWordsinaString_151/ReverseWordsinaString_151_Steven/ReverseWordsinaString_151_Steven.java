@@ -1,4 +1,4 @@
-package TwoPointer.ReverseWordsinaString_151_Steven;
+package TwoPointer.ReverseWordsinaString_151.ReverseWordsinaString_151_Steven;
 
 public class ReverseWordsinaString_151_Steven {
   public static String reverseWords(String s) {

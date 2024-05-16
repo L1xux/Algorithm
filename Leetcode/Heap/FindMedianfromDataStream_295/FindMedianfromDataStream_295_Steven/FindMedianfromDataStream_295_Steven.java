@@ -1,4 +1,4 @@
-package Heap.FindMedianfromDataStream_295_Steven;
+package Heap.FindMedianfromDataStream_295.FindMedianfromDataStream_295_Steven;
 
 import java.util.Collections;
 import java.util.LinkedList;

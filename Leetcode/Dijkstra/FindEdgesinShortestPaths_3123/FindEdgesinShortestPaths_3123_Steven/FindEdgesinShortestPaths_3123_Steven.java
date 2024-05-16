@@ -1,4 +1,4 @@
-package Dijkstra.FindEdgesinShortestPaths_3123_Steven;
+package Dijkstra.FindEdgesinShortestPaths_3123.FindEdgesinShortestPaths_3123_Steven;
 
 import java.util.*;
 

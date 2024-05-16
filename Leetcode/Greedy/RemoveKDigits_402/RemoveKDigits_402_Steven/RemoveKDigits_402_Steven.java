@@ -1,4 +1,4 @@
-package Greedy.RemoveKDigits_402_Steven;
+package Greedy.RemoveKDigits_402.RemoveKDigits_402_Steven;
 
 public class RemoveKDigits_402_Steven {
   public static String removeKdigits(String num, int k) {

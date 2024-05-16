@@ -1,4 +1,4 @@
-package BruteForce.CounttheNumberofSpecialCharactersI_3120_Steven;
+package BruteForce.CounttheNumberofSpecialCharactersI_3120.CounttheNumberofSpecialCharactersI_3120_Steven;
 
 public class CounttheNumberofSpecialCharactersI_3120_Steven {
   public static int numberOfSpecialChars(String word) {

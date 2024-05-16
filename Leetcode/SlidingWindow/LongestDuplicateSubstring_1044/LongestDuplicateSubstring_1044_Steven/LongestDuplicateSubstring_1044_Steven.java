@@ -1,4 +1,4 @@
-package SlidingWindow.LongestDuplicateSubstring_1044_Steven;
+package SlidingWindow.LongestDuplicateSubstring_1044.LongestDuplicateSubstring_1044_Steven;
 
 public class LongestDuplicateSubstring_1044_Steven {
   public static String longestDupSubstring(String s) {

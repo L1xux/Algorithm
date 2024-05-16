@@ -1,4 +1,4 @@
-package BFS.CheapestFlightsWithinKStops_787_Steven;
+package BFS.CheapestFlightsWithinKStops_787.CheapestFlightsWithinKStops_787_Steven;
 
 import java.util.ArrayList;
 import java.util.Arrays;

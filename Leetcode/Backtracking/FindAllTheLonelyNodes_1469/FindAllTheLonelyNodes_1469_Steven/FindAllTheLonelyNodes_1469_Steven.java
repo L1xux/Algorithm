@@ -1,4 +1,4 @@
-package Backtracking.FindAllTheLonelyNodes_1469_Steven;
+package Backtracking.FindAllTheLonelyNodes_1469.FindAllTheLonelyNodes_1469_Steven;
 
 import java.util.*;
 

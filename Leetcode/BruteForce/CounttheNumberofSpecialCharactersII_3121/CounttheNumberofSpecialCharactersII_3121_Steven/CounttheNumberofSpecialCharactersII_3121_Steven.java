@@ -1,4 +1,4 @@
-package BruteForce.CounttheNumberofSpecialCharactersII_3121_Steven;
+package BruteForce.CounttheNumberofSpecialCharactersII_3121.CounttheNumberofSpecialCharactersII_3121_Steven;
 
 public class CounttheNumberofSpecialCharactersII_3121_Steven {
 

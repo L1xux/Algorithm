@@ -1,4 +1,4 @@
-package Greedy.CanPlaceFlowers_605_Steven;
+package Greedy.CanPlaceFlowers_605.CanPlaceFlowers_605_Steven;
 
 public class CanPlaceFlowers_605_Steven {
   public static boolean canPlaceFlowers(int[] flowerbed, int n) {

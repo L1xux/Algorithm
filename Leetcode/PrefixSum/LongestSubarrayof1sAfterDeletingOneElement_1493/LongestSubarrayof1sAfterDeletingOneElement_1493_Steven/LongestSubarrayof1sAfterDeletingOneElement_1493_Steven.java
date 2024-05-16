@@ -1,4 +1,4 @@
-package PrefixSum.LongestSubarrayof1sAfterDeletingOneElement_1493_Steven;
+package PrefixSum.LongestSubarrayof1sAfterDeletingOneElement_1493.LongestSubarrayof1sAfterDeletingOneElement_1493_Steven;
 
 public class LongestSubarrayof1sAfterDeletingOneElement_1493_Steven {
   public static int longestSubarray(int[] nums) {

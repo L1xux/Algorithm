@@ -1,4 +1,4 @@
-package BinarySearch.KthMissingPositiveNumber_1539_Steven;
+package BinarySearch.KthMissingPositiveNumber_1539.KthMissingPositiveNumber_1539_Steven;
 
 public class KthMissingPositiveNumber_1539_Steven {
   public static int findKthPositive(int[] nums, int k) {

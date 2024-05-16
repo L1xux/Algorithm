@@ -1,4 +1,4 @@
-package String.MergeStringsAlternately_1768_Steven;
+package String.MergeStringsAlternately_1768.MergeStringsAlternately_1768_Steven;
 
 public class MergeStringsAlternately_1768_Steven {
   public static String mergeAlternately(String word1, String word2) {

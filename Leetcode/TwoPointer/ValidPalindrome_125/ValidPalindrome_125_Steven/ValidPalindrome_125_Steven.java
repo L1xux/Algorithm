@@ -1,4 +1,4 @@
-package TwoPointer.ValidPalindrome_125_Steven;
+package TwoPointer.ValidPalindrome_125.ValidPalindrome_125_Steven;
 
 public class ValidPalindrome_125_Steven {
   public static boolean isPalindrome(String s) {

@@ -1,4 +1,4 @@
-package String.StringCompression_443_Steven;
+package String.StringCompression_443.StringCompression_443_Steven;
 
 public class StringCompression_443_Steven {
   public static int compress(char[] chars) {

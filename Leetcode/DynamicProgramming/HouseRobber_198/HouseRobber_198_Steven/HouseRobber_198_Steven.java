@@ -1,4 +1,4 @@
-package HouseRobber_198_Steven;
+package HouseRobber_198.HouseRobber_198_Steven;
 
 public class HouseRobber_198_Steven {
   public static int rob(int[] nums) {

@@ -1,4 +1,4 @@
-package SlidingWindow.MaxConsecutiveOnesIII_1004_Steven;
+package SlidingWindow.MaxConsecutiveOnesIII_1004.MaxConsecutiveOnesIII_1004_Steven;
 
 import java.util.LinkedList;
 import java.util.Queue;

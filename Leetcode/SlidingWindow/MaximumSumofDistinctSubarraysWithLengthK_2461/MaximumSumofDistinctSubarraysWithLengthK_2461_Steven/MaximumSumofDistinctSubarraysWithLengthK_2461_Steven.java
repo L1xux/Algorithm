@@ -1,4 +1,4 @@
-package SlidingWindow.MaximumSumofDistinctSubarraysWithLengthK_2461_Steven;
+package SlidingWindow.MaximumSumofDistinctSubarraysWithLengthK_2461.MaximumSumofDistinctSubarraysWithLengthK_2461_Steven;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package BinaryTree.FindMedianfromDataStream_295_Steven;
+package BinaryTree.FindMedianfromDataStream_295.FindMedianfromDataStream_295_Steven;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package TwoPointer.MergekSortedLists_23_Steven;
+package TwoPointer.MergekSortedLists_23.MergekSortedLists_23_Steven;
 
 class ListNode {
   int val;
